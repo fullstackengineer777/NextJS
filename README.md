@@ -1,0 +1,2 @@
+# NextJS
+Simple Next JS
