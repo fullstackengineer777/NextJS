@@ -1,2 +1,2 @@
 # NextJS
-Simple Next JS
+Admin pages and  Next JS
